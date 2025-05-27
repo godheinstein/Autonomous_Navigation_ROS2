@@ -1,0 +1,9 @@
+<class_libraries>
+    <library path="ee4308_turtle_controller">
+        <class type="ee4308::turtle::Controller" base_class_type="nav2_core::Controller">
+            <description>
+                ee4308_turtle_controller
+            </description>
+        </class>
+    </library>
+</class_libraries>

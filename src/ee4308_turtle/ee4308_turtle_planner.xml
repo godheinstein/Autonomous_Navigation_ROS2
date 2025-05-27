@@ -1,0 +1,9 @@
+<class_libraries>
+    <library path="ee4308_turtle_planner">
+        <class type="ee4308::turtle::Planner" base_class_type="nav2_core::GlobalPlanner">
+            <description>
+                ee4308_turtle_planner
+            </description>
+        </class>
+    </library>
+</class_libraries>
